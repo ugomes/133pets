@@ -1,0 +1,18 @@
+{
+  "id": 340460,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Joe",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Vacinado"
+    }
+  ],
+  "status": "available"
+}
